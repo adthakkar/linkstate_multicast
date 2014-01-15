@@ -1,5 +1,4 @@
 Author: Aditya Thakkar
-Student ID: 2021132636
 
 Compilation and running instructions
 
@@ -49,5 +48,5 @@ After running 1 scenario do following:
 **************************************************************
 * Scenarios Result on Ubuntu 12.10
 **************************************************************
-- All scenarios 1-4 run successfully 
+- All Scenariox.sh (x=1-4) run successfully 
 - Data travels on the correct path
